@@ -33,3 +33,15 @@
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/31l7Pyb4vCL.jpg" width="200">](https://www.amazon.co.jp/dp/1421407949/) | Matrix Computations |  G. H. Golub and C. F. Van Loan | 実際に計算を行うことを念頭においた、行列計算の網羅的な辞書です。非常に有名な名著です。松井は行列計算で導出がわからない式に出会うたび、この「Matrix Computations」と上記の「統計のための行列代数」でいつも調べます。辞書度：★★★★|
 
 
+
+# 機械学習
+|  | 書名 | 著者 | 説明 
+| --- | --- | --- | --- |
+| [<img src="https://images-na.ssl-images-amazon.com/images/I/51YFB3Y0EYL.jpg" width="200">](https://www.amazon.co.jp/dp/4627849710) | はじめてのパターン認識 | 平井有三 | 機械学習に関する入門書。深層学習以前の基本的な内容です。まずはこういう入門書を一冊マスターするとよいと思います。必須度：★★★★|
+| [<img src="https://images-na.ssl-images-amazon.com/images/I/41oUQTcnaLL.jpg" width="200">](https://www.amazon.co.jp/dp/4061529021) | 深層学習 | 岡谷貴之 | 深層学習の理論の入門書。日本語の文献としては理論の入門として決定版だと思います。深層学習を使うのであれば必読です。必須度：★★★★★|
+| [<img src="https://images-na.ssl-images-amazon.com/images/I/513J77QZHgL.jpg" width="200">](https://www.amazon.co.jp/dp/4873117585) | ゼロから作るディープラーニング | 斎藤康毅 | 深層学習がどのように実装されているか、pythonで0から実装していくという本です。これを一読しておくと、深層学習ライブラリが内部でどのようになっているのか見通しがつくようになります。この本と上述の「深層学習」は、深層学習の理論と実装の入門書と言えます。そんなに分厚くないので、深層学習を使う場合はまず両方を読んでみるとよいです。必須度：★★★★|
+
+
+
+
+
