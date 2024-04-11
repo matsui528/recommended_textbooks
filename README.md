@@ -58,6 +58,7 @@
 |  | 書名 | 著者 | 説明 |
 | --- | --- | --- | --- |
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/31818M220JL.jpg" width="200">](https://www.amazon.co.jp/dp/4121006240/) | 理科系の作文技術 | 木下是雄 | アカデミックライティングの基礎です。多くの大学生は、卒論執筆時に始めて構造的な文章の記述を学びます。それはこれまでに文章執筆とは異なるものです。この本はその基本が書かれています。薄く安い新書なので、これは一冊買って読んでおくとよいです。必須度：★★★★★|
+| [<img src="https://m.media-amazon.com/images/I/71OmMD4O7AL._SL1412_.jpg" width="200">](https://www.amazon.co.jp/dp/4130623230/) | 科学の技法 第2版 | 若杉桂輔（編）、宮島謙（編）  | 東大理科１年の講義（初年次ゼミナール）の教科書です。アカデミックな活動のルールや作法が簡潔にまとめられています。１年生向けのテキストですが、実際に研究活動を開始する卒論生や、あるいは卒論によって研究を体験した修士学生が読むと改めて勉強になると思います。必須度：★★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/51HKaOqL-RL.jpg" width="200">](https://www.amazon.co.jp/dp/4839955557/) | ノンデザイナーズデザインブック | Robin Williams | 非デザイナ向けの、デザインの基本的な理論書です。スライドやポスター作りの際に気をつけるべき点が書いてあります。必須度：★★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/51j+Ki6l4XL.jpg" width="200">](https://www.amazon.co.jp/dp/4297119854/) | 伝わるデザインの基本 | 高橋佑磨、片山なつ | これもデザインの理論の本です。[有名ホームページ](https://tsutawarudesign.com/)の書籍版です。日本語のデザインにも対応しています。必須度：★★★★|
 
