@@ -1,6 +1,6 @@
 # おすすめの教科書
 
-研究をスタートするコンピュータビジョン分野の卒論生向けに、おすすめの教科書をまとめます。
+研究をスタートするコンピュータビジョン分野の卒論生や修士学生向けに、おすすめの教科書をまとめます。
 
 
 
@@ -15,23 +15,37 @@
 
 |  | 書名 | 著者 | 説明 |
 | --- | --- | --- | --- |
-| [<img src="https://images-na.ssl-images-amazon.com/images/I/41FCF736uWL.jpg" width="200">](https://www.amazon.co.jp/dp/490347464X/) | ディジタル画像処理（改訂第二版） | ディジタル画像処理編集委員会 | 画像処理全般の各種トピックを網羅的にカバーした入門書です。一つ一つの章の内容は深くはないですが、分野全体を概観することができます。必須度：★★★★★|
-| [<img src="https://images-na.ssl-images-amazon.com/images/I/513Ar0x8ueL.jpg" width="200">](https://www.amazon.co.jp/dp/4061529129/) | 画像認識 | 原田達也 | 画像認識屋検出に関する、新しめの網羅的な話です。ややマニアックな内容を含みますが、深層学習以前のコンピュータビジョンがどのように学習ベースに移り変わっていったか知ることが出来ます。認識・検出を専門にしたい人は読んでおくとよいです。 必須度：★★★★|
-| [<img src="https://images-na.ssl-images-amazon.com/images/I/418YD691TAL.jpg" width="200">](https://www.amazon.co.jp/dp/4339023639) | コンピュータビジョン：視覚の幾何学 | 佐藤淳 | 射影行列など、三次元幾何に関する決定版の和書です。下で述べるHartley&Zissermanが難しければ、この本を読みましょう。 必須度：★★★　専門度：★★★|
-| [<img src="https://images-na.ssl-images-amazon.com/images/I/71gNlwsWRuL.jpg" width="200">](https://www.amazon.co.jp/dp/4320123573/) | コンピュータビジョン —広がる要素技術と応用— (未来へつなぐ デジタルシリーズ 37) | 編：米谷竜 | コンピュータビジョンに関する新し目のトピックについての紹介です。松井も１セクションを担当しています。松井と同世代ぐらいの若手研究者によって書かれており、近年の話題に触れることができます。必須度：★★★ |
-| [<img src="http://szeliski.org/Book/imgs/Szeliski2ndBookFrontCover.png" width="200">](http://szeliski.org/Book/) | Computer Vision: Algorithms and Applications, 2nd ed. | Richard Szeliski | 分野を網羅するタイプの分厚い本です。網羅系の本としてはこれが決定版です。最近改訂されて第二版（まだ執筆中）になり、最近の深層学習の話が増えました。[無料でドラフトのpdfをダウンロード](http://szeliski.org/Book/)出来ます。少し古い初版は、[翻訳され書籍として出版](https://www.amazon.co.jp/dp/432012328X/)されています。辞書として知っておくといい度：★★★★★ |
+| [<img src="https://images-na.ssl-images-amazon.com/images/I/41FCF736uWL.jpg" width="200">](https://www.amazon.co.jp/dp/490347464X/) | ディジタル画像処理（改訂第二版） | ディジタル画像処理編集委員会 | 画像処理全般の古典的な各種技術を網羅的にカバーした入門書です。一つ一つの章の内容は難しくなく、分野全体を概観することができます。必ず一読しておくことをお勧めします。必須度：★★★★★|
+| [<img src="https://m.media-amazon.com/images/I/61E+IIPGwML._SL1417_.jpg" width="200">](https://www.amazon.co.jp/dp/4274231844/) | 深層学習による画像認識の基礎 | 菅沼雅徳 | 深層学習時代のコンピュータビジョンの基本的な技術について学べる、新しめの入門書です。CVPRといった最新論文を読む上で説明されない基本的な概念（ViTといったアーキテクチャや、セマンティックセグメンテーションといったタスクなど）が丁寧に解説されていますので、是非読んでおきましょう。必須度：★★★★★|
+| [<img src="https://images-na.ssl-images-amazon.com/images/I/513Ar0x8ueL.jpg" width="200">](https://www.amazon.co.jp/dp/4061529129/) | 画像認識 | 原田達也 | 画像認識や検出に関する、深層学習前夜の最新技術のまとめです。マニアックな内容を含みますが、深層学習以前の技術がどのように学習ベースに移り変わっていったか知ることが出来ます。 必須度：★★★|
+| [<img src="https://images-na.ssl-images-amazon.com/images/I/418YD691TAL.jpg" width="200">](https://www.amazon.co.jp/dp/4339023639) | コンピュータビジョン：視覚の幾何学 | 佐藤淳 | 射影行列など、三次元幾何に関する決定版の和書です。下で述べるHartley&Zissermanが難しければ、この本を読みましょう。 必須度：★★★　三次元をやるなら読んでおくべし度：★★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/41933TXS1LL.jpg" width="200">](https://www.amazon.co.jp/dp/0521540518) | Multiple View Geometry in Computer Vision | Richard Hartley and Andrew Zisserman | 三次元画像処理を行う上で必須の数学である三次元幾何学に関する決定版の教科書。いわゆるHartley&Zisserman。真剣に三次元処理を研究する場合は必読です。専門度：★★★★★ |
+
+
 
 
 ## 数学
 
 |  | 書名 | 著者 | 説明 |
 | --- | --- | --- | --- |
-| [<img src="https://images-na.ssl-images-amazon.com/images/I/41ku9k1qBfL.jpg" width="200">](https://www.amazon.co.jp/dp/4065161967/) | スタンフォード　ベクトル・行列からはじめる最適化数学 | ステファン・ボイド、リーヴェン・ヴァンデンベルグ | ベクトルや行列の定義から始めて、工学で使う数学の基礎（最小二乗法）が解説されています。分厚いですが、内容は平易ですので、工学部の卒論生であれば完全に理解できます。工学的な問題を行列を使ってどう扱うか、という訓練の第一歩として適しています。必須度：★★★★★|
+| [<img src="https://m.media-amazon.com/images/I/81JDOGfc35L._SL1500_.jpg" width="200">](https://www.amazon.co.jp/dp/4130629239/) | 大学数学ことはじめ: 新入生のために |  松尾厚 (著)、東京大学数学部会(編) | 東京大学の理科の一年生を対象とした、高校数学と大学数学を橋渡しする優しい数学入門書です。数式を自分で考えて記述するという行為は実はとても難しいものです。一度この本まで立ち返り、集合はどう書くとか、値域と定義域を明示して関数を表記するにはどうするとか、そういった基本的なことを思い出してみるとよいでしょう。CVPRレベルの論文でも、この本に書いてあるような基本的な数学記述が出来ていない論文が非常に多いです。必須度：★★★★★|
+| [<img src="https://m.media-amazon.com/images/I/71wehPXKonL._SL1500_.jpg" width="200">](https://www.amazon.co.jp/dp/4320125819) | 機械学習のための数学 |  Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | コンピュータビジョンの研究を行う上で知っておくべきバックグラウンドの数学を、難しすぎず優しすぎない、必要十分な分量難易度で紹介してくれる教科書です。研究を始める前にこの本を独学しておくと、スムーズに論文を読み進められると思います。[原著は有名な教科書で、pdfが無料で公開されています。](https://mml-book.github.io/)必須度：★★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/51vPUHZSvcL.jpg" width="200">](https://www.amazon.co.jp/dp/4065212707/) | しっかり学ぶ数理最適化 モデルからアルゴリズムまで | 梅谷俊治 | 最適化の世界の見取り図です。個別の問題の解法はもとより、「どういう式の形のとき、どういう分野の方法で解くのか」がまとめになっています。ざっとでも一読しておくとよいです。必須度：★★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/51ovD7E32qL.jpg" width="200">](https://www.amazon.co.jp/dp/4782805020/) | 線形代数とその応用 | ギルバート・ストラング | MITのオープンコースの講義で有名なストラング先生の名著。線形代数の入門として勉強になります。ちょっと古いので、ストラング先生の[最近の新しい本](https://www.amazon.co.jp/dp/4764904055/)でもよいかもしれないです（こちらは未読）。必須度：★★★★|
+| [<img src="https://images-na.ssl-images-amazon.com/images/I/41ku9k1qBfL.jpg" width="200">](https://www.amazon.co.jp/dp/4065161967/) | スタンフォード　ベクトル・行列からはじめる最適化数学 | ステファン・ボイド、リーヴェン・ヴァンデンベルグ | ベクトルや行列の定義から始めて、工学で使う数学の基礎（最小二乗法）が解説されています。分厚いですが、内容は平易ですので、工学部の卒論生であれば完全に理解できます。工学的な問題を行列を使ってどう扱うか、という訓練の第一歩として適しています。必須度：★★★★|
+
+
+
+
+
+
+## 辞書
+|  | 書名 | 著者 | 説明 |
+| --- | --- | --- | --- |
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/415R5HXevWL.jpg" width="200">](https://www.amazon.co.jp/dp/4621061453) | 統計のための行列代数　上・下 | D. A. ハーヴィル | 線形代数の辞書です。定理の導出がわからないときなど、これで調べられます。一冊持っておくと便利です。辞書度：★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/31l7Pyb4vCL.jpg" width="200">](https://www.amazon.co.jp/dp/1421407949/) | Matrix Computations |  G. H. Golub and C. F. Van Loan | 実際に計算を行うことを念頭においた、行列計算の網羅的な辞書です。非常に有名な名著です。松井は行列計算で導出がわからない式に出会うたび、この「Matrix Computations」と上記の「統計のための行列代数」でいつも調べます。辞書度：★★★★|
+| [<img src="http://szeliski.org/Book/imgs/Szeliski2ndBookFrontCover.png" width="200">](http://szeliski.org/Book/) | Computer Vision: Algorithms and Applications, 2nd ed. | Richard Szeliski | 分野を網羅するタイプの分厚い本です。コンピュータビジョンに関する網羅系の本としてはこれが決定版です。最近改訂されて第二版になり、最近の深層学習の話が増えました。[無料でドラフトのpdfをダウンロード](http://szeliski.org/Book/)出来ます。少し古い初版は、[翻訳され書籍として出版](https://www.amazon.co.jp/dp/432012328X/)されています。辞書度：★★★★★ |
+| [<img src="https://m.media-amazon.com/images/I/71ddQeEZnNL._SL1500_.jpg" width="200">](https://www.amazon.co.jp/dp/476490649X/) | アルゴリズムイントロダクション | T. コルメン、C. ライザーソン、R. リベスト、C. シュタイン | アルゴリズムに関する最も有名で、最も網羅的な教科書です。一冊いつでもアクセスできる状態にしておき、アルゴリズムに関して疑問が出てきたらすぐ手に取れるようにしておくといいでしょう。辞書度：★★★★|
 
 
 
