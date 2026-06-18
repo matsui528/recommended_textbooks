@@ -56,6 +56,7 @@
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/51YFB3Y0EYL.jpg" width="200">](https://www.amazon.co.jp/dp/4627849710) | はじめてのパターン認識 | 平井有三 | 機械学習に関する入門書。深層学習以前の基本的な内容です。まずはこういう入門書を一冊マスターするとよいと思います。必須度：★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/41Gpn0CggQL.jpg" width="200">](https://www.amazon.co.jp/dp/4065133327) | 深層学習（改訂第２版） | 岡谷貴之 | 深層学習の理論の入門書。日本語の文献としては理論の入門として決定版だと思います。深層学習を使うのであれば必読です。改訂第２版で大幅加筆修正されていますので、そちらを選んでください。必須度：★★★★★|
 | [<img src="https://images-na.ssl-images-amazon.com/images/I/513J77QZHgL.jpg" width="200">](https://www.amazon.co.jp/dp/4873117585) | ゼロから作るディープラーニング | 斎藤康毅 | 深層学習がどのように実装されているか、pythonで0から実装していくという本です。これを一読しておくと、深層学習ライブラリが内部でどのようになっているのか見通しがつくようになります。この本と上述の「深層学習」は、深層学習の理論と実装の入門書と言えます。そんなに分厚くないので、深層学習を使う場合はまず両方を読んでみるとよいです。必須度：★★★★|
+| [<img src="https://m.media-amazon.com/images/I/81IYY6n8efL._SL1500_.jpg" width="200">](https://www.amazon.co.jp/dp/4814401612) | ゼロから作るDeep Learning ❻ ―LLM編  | 斎藤康毅 | ゼロから作るシリーズの６です。LLMの中身が丁寧に説明されています。LLMの中身を作りながら解説する系の本は色々ありますが、LLMの進化の過渡期にある中で出された本が多かった印象でした。この本はある程度LLMの基本構成が成熟を迎えた段階で書かれた本であり、大変わかりやすいです。LLM理解したい度：★★★★★|
 
 
 # 古いが名著
